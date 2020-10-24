@@ -8,4 +8,5 @@ def sort(nums):
         nums[j+1]=temp
         
 sort(nums)
+print("After BubbleSorting the list will be: ")
 print(nums)
